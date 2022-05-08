@@ -2,7 +2,7 @@
 Implementaion and comparison of sorting algorithms
 
 It covers:
-  Insertion sort
+  Insertion sort\n
   Selection sort
   Quick sort
   Merge sort
